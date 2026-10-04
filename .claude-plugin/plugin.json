@@ -1,0 +1,22 @@
+{
+  "name": "ateam-poc-architect",
+  "displayName": "POC Architect by ATeam",
+  "version": "1.0.0",
+  "description": "Understand it, design it, cost it, guard it, then build it. A staged process for AI proofs of concept: handover, teach-back and challenge round, cheapest-first architecture across Claude and OpenAI with a running-cost ceiling, guardrail review, Product Owner approval, and a lean test-first build.",
+  "author": {
+    "name": "ATeam Soft Solutions",
+    "url": "https://www.ateamsoftsolutions.com"
+  },
+  "homepage": "https://www.ateamsoftsolutions.com",
+  "license": "MIT",
+  "keywords": [
+    "poc",
+    "proof-of-concept",
+    "ai-architecture",
+    "cost",
+    "guardrails",
+    "requirements",
+    "tdd",
+    "llm"
+  ]
+}
