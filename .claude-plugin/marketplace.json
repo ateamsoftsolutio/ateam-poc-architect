@@ -1,0 +1,13 @@
+{
+  "name": "ateam-plugins",
+  "owner": {
+    "name": "ATeam Soft Solutions"
+  },
+  "plugins": [
+    {
+      "name": "ateam-poc-architect",
+      "source": "./",
+      "description": "Understand it, design it, cost it, guard it, then build it. A staged process for AI proofs of concept, from handover to an approved, costed and guarded build."
+    }
+  ]
+}
